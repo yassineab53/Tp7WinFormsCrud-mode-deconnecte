@@ -90,6 +90,7 @@
             // 
             // dateTimePicker1
             // 
+            dateTimePicker1.Format = DateTimePickerFormat.Short;
             dateTimePicker1.Location = new Point(89, 181);
             dateTimePicker1.Name = "dateTimePicker1";
             dateTimePicker1.Size = new Size(270, 27);
