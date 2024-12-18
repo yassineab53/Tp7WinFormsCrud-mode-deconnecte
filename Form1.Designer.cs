@@ -49,6 +49,7 @@
             dataGridView1.Location = new Point(-17, 241);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
             dataGridView1.Size = new Size(821, 212);
             dataGridView1.TabIndex = 0;
             // 
